@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="SVG-BG.svg" width="400" alt="Custom SVG background"/>
+  <img src="sky_pic.jpg" width="100%" alt="Custom SVG background"/>
   
   # Hi, I'm Pedro Carvalho 👋
   
