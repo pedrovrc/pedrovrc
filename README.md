@@ -1,46 +1,39 @@
-<div align="center">
+<div style="text-align: center;">
   <img src="sky_pic.jpg" width="100%" alt="Custom SVG background"/>
   
   # Hi, I'm Pedro Carvalho 👋
-  
-  <sub>C / C++ / Python Developer | Learning Web Development | Game Dev/Design Fan</sub>
+  <h3>C++ / Python / JS Developer | Learning Web Development | Game Dev/Design Fan</h3>
+  <h4>Welcome to my personal GitHub!</h4>
 </div>
+<br/>
 
----
+## Skills & Technologies
 
-## 🛠️ Skills & Technologies
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=black) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=black) ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&labelColor=black)
 
-- **Languages:** C, C++, Python, JavaScript
-- **Frameworks & Libraries:** Django, Flask, React, Pandas, Numpy
-- **Other:** VSCode, MySQL, Git/Github, Docker
+![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=%23092E20&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/Flask-%233BABC3?style=for-the-badge&logo=flask&logoColor=%233BABC3&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23013243&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=%235C3EE8&logoSize=auto&labelColor=white)
 
-## 🚀 Current Focus
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/Nodemon-%2376D04B?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=%23663399&logoSize=auto&labelColor=black)
+
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23F05032&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&logoSize=auto&labelColor=white)
+
+
+## Current Focus
 
 - Studying web development (Python + Django, JS + React)
-- Building projects in Web Dev and learning to use Unity
+- Learning to use Unity for 2D games
 
-## 📂 Featured Projects
-
-- Check out the pinned repos below! I also have [a portfolio website](https://pedrovrc.github.io) with a more structured overview.
-
-## 🌐 Contact & Socials
+## Contact & Socials
 
 - Email: [pedrovrc.dev@gmail.com](mailto:pedrovrc.dev@gmail.com)
 - [LinkedIn](https://linkedin.com/in/pedrovrc-dev)
-- [Personal Twitter](https://twitter.com/pedrovrcart)
+- [Portfolio Website](https://pedrovrc.github.io)
 
-## 🎨 Fun Facts
+## Fun Facts
 
-- I love art, 2D illustration, and music
-- Game design (video, board, card games) is a passion
+- I love art and music, and [also am a hobbyist 2D illustrator](https://pedrovrc-portfolio.carrd.co/)
+- Game design (video, board, card games) is a fun hobby
 - Volleyball enthusiast (as much as a bad knee allows me to)
 - Trying to do/play more TTRPGs and fiction writing
 
----
-
-<div align="center">
-  <svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="200" height="60" rx="15" fill="#E6E6FA"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#7C3AED" font-size="20">Welcome!</text>
-  </svg>
 </div>
