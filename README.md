@@ -1,9 +1,11 @@
-<div style="text-align: center;">
-  <img src="sky_pic.jpg" width="100%" alt="Custom SVG background"/>
+<div>
+  <img src="sky_pic.jpg" width="100%" alt="Sky picture for banner"/>
   
-  # Hi, I'm Pedro Carvalho 👋
-  <h3>C++ / Python / JS Developer | Learning Web Development | Game Dev/Design Fan</h3>
-  <h4>Welcome to my personal GitHub!</h4>
+  <div style="text-align: center;">
+    <h1>Hi, I'm Pedro Carvalho 👋</h1>
+    <h3>C++ / Python / JS Developer | Learning Web Development | Game Dev/Design Fan</h3>
+    <h4>Welcome to my personal GitHub!</h4>
+  </div>
 </div>
 <br/>
 
