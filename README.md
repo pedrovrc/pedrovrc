@@ -2,7 +2,7 @@
   <img src="sky_pic.jpg" width="100%" alt="Sky picture for banner"/>
   
   <div style="text-align: center;">
-    <h1>Hi, I'm Pedro Carvalho 👋</h1>
+    <h1>Hi, I'm Pedro 👋</h1>
     <h3>C++ / Python / JS Developer | Learning Web Development | Game Dev/Design Fan</h3>
     <h4>Welcome to my personal GitHub!</h4>
   </div>
@@ -34,7 +34,7 @@
 ## Fun Facts
 
 - I love art and music, and [also am a hobbyist 2D illustrator](https://pedrovrc-portfolio.carrd.co/)
-- Game design (video, board, card games) is a fun hobby
+- Game design (video, board, card games) is a fun hobby I want to do more
 - Volleyball enthusiast (as much as a bad knee allows me to)
 - Trying to do/play more TTRPGs and fiction writing
 
