@@ -22,7 +22,7 @@
 
 ## Current Focus
 
-- Studying web development (Python + Django, JS + React)
+- Studying web development (Currently reading up on Vue.js)
 - Learning to use Unity for 2D games
 
 ## Contact & Socials
