@@ -23,8 +23,9 @@
 
 ## Current Focus
 
-- Studying web development (Currently reading up on Vue.js)
+- Studying web development (Currently focusing on React)
 - Learning to use Godot Engine!
+- Trying not to let brainrot consume my brainspace.
 
 ## Contact & Socials
 
