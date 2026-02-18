@@ -24,7 +24,7 @@
 
 - Studying Web Development (Currently focusing on React)
 - Learning to use Godot Engine!
-- Taking care of my physical health for some sports!
+- Taking care of my physical health for some sports! 🏐
 
 ## Contact & Socials
 
