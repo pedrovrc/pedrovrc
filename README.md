@@ -4,7 +4,7 @@
   <div style="text-align: center;">
     <h1>Hi, I'm Pedro 👋</h1>
     <h3>Python / JS / C++ Developer | Focusing on Web Development | Game Dev/Design Fan</h3>
-    <h4>Welcome to my personal GitHub!</h4>
+    <h3>Welcome to my personal GitHub page!</h3>
   </div>
 </div>
 <br/>
