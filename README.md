@@ -36,7 +36,7 @@
 
 - I love art and music, and [also am a hobbyist 2D illustrator](https://pedrovrc-portfolio.carrd.co/)
 - Game design (video, board, card games) is a fun hobby I want to do more
-- Volleyball enthusiast (as much as a bad knee allows me to)
-- Trying to do/play more TTRPGs and fiction writing
+- Playing as a middle blocker in my volleyball team (as much as a bad knee allows me to)
+- Trying to play more Tabletop games and do some fiction writing
 
 </div>
